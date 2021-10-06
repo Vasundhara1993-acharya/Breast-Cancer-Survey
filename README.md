@@ -13,11 +13,11 @@ Motivation: The data collection need is driven by (questions)} the necessity to 
 
 File Description: There are two folders. 
 
-1. 01SurveyRiskAssessmentStudy_2021_CSV_File folder: This folder consists of two files. The first is the CSV file consisting of the responses obtained from the survey and second is the metadata file.
+1. 01SurveyRiskAssessmentStudy_2021_CSV_File folder: The number 01 represents the version. This folder consists of two files. The first is the CSV file consisting of the responses obtained from the survey and second is the metadata file.
 1.1. Main file is name is named as Responses.CSV and the metadata file is names as Metadata.pdf. The metadata file consists of detailed description related to the  study, data file(s), variables, categories, etc., that make up a complete dataset. The codebook may include a dataset’s record layout, list of variable names and labels, concepts, categories, cases, missing value codes, frequency counts, notes, universe statements, and so on. The metadata is captured using the DDI codebook metadata standard. The information in this metadata codebook is structured, machine-actionable, and usable by computer software and databases. 
 
 
-2. 01SurveyRiskAssessmentStudy_2021_ARFF_File folder: 1. 01SurveyRiskAssessmentStudy_2021_ARFF_File folder: This folder consists of one file. The file is in Attribute-Relation File Format. The metadata consisting of the description of the variables is inbuilt in the file.  The ARFF file consists of the responses obtained from the survey.
+2. 01SurveyRiskAssessmentStudy_2021_ARFF_File folder: 1. 01SurveyRiskAssessmentStudy_2021_ARFF_File folder: The number 01 represents the version. This folder consists of one file. The file is in Attribute-Relation File Format. The metadata consisting of the description of the variables is inbuilt in the file.  The ARFF file consists of the responses obtained from the survey.
 
 
 Uses of this project: 
